@@ -167,3 +167,23 @@
 2025-03-11T16:22:19.936484Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
 2025-03-11T16:22:32.735299Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tutorial")}
 2025-03-11T16:22:32.735308Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T16:26:43.939722Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_27956_1e694fffc7202778089421363cd08d85")}
+2025-03-11T16:26:43.939730Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T16:26:45.039267Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T16:26:45.039274Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T16:26:45.349806Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json.1449259163"), AnchoredSystemPathBuf("pnpm-lock.yaml.3420587136"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("package.json")}
+2025-03-11T16:26:45.349814Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-03-11T16:27:04.740267Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_28371_b40ed596d5dc0abe41ca439188dddb95"), AnchoredSystemPathBuf("")}
+2025-03-11T16:27:04.740276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T16:27:06.139460Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T16:27:06.139468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T16:27:06.339909Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json.2332637223"), AnchoredSystemPathBuf("pnpm-lock.yaml.3683756174"), AnchoredSystemPathBuf("package.json"), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2025-03-11T16:27:06.339918Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-03-11T16:27:16.840343Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vitest.config.ts")}
+2025-03-11T16:27:16.840353Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T16:27:19.539091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vitest.config.ts")}
+2025-03-11T16:27:19.539099Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T16:27:47.139234Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-03-11T16:27:47.139244Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-03-11T16:28:12.441377Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-03-11T16:28:12.441387Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
