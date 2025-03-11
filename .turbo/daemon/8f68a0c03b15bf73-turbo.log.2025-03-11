@@ -1,0 +1,107 @@
+2025-03-11T12:22:24.360199Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-03-11T12:22:24.462610Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2025-03-11T12:22:24.462629Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:22:47.773345Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2025-03-11T12:22:47.773352Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:22:49.000730Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2025-03-11T12:22:49.000739Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:23:06.063012Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/router.tsx")}
+2025-03-11T12:23:06.063028Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:23:22.562925Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_82490_9ca6b5fe9d53643a3229cac9ef3fe7d2")}
+2025-03-11T12:23:22.562934Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:23:39.862558Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-03-11T12:23:39.862566Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-03-11T12:23:39.868905Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-03-11T12:23:41.963157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-03-11T12:23:41.963173Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-03-11T12:23:41.969108Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: Unable to convert to yaml: missing field `importers`
+2025-03-11T12:23:52.563487Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.ts")}
+2025-03-11T12:23:52.563495Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:23:55.963613Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.ts")}
+2025-03-11T12:23:55.963625Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:24:24.063441Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_83764_71b62c7488721258481e63dfd7a1edf8"), AnchoredSystemPathBuf("")}
+2025-03-11T12:24:24.063450Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:24:38.863498Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-03-11T12:24:38.863509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:24:38.964177Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie"), AnchoredSystemPathBuf("packages/router/.turbo/turbo-build.log"), AnchoredSystemPathBuf("packages/router/.turbo")}
+2025-03-11T12:24:38.964186Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:24:39.162745Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/.turbo/turbo-build.log")}
+2025-03-11T12:24:39.162753Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:24:46.963503Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_84204_861319994f7d98825fc35b16e5a464f3")}
+2025-03-11T12:24:46.963513Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:24:54.565560Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:54.565568Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:54.764160Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:54.764168Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:54.964408Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:54.964416Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.064478Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.064535Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.164486Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.164493Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.265288Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.265296Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.364236Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.364244Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.465538Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.465941Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.564936Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.564945Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.867076Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.867084Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:55.965849Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:55.965856Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.064115Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.064122Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.163684Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.163692Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.263539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.263546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.363892Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.363900Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.465588Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.465595Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.664910Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.664917Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.864567Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-03-11T12:24:56.864574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-03-11T12:24:56.963766Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-router/node_modules"), AnchoredSystemPathBuf("packages/react-router-dom/node_modules"), AnchoredSystemPathBuf("packages/react-router-dom-v5-compat/node_modules"), AnchoredSystemPathBuf("packages/react-router-native/node_modules"), AnchoredSystemPathBuf("packages/router/node_modules")}
+2025-03-11T12:24:56.963776Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-router-dom"), path: AnchoredSystemPathBuf("packages/react-router-dom") }, WorkspacePackage { name: Other("react-router"), path: AnchoredSystemPathBuf("packages/react-router") }, WorkspacePackage { name: Other("react-router-native"), path: AnchoredSystemPathBuf("packages/react-router-native") }, WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }, WorkspacePackage { name: Other("react-router-dom-v5-compat"), path: AnchoredSystemPathBuf("packages/react-router-dom-v5-compat") }}))
+2025-03-11T12:24:58.767497Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/package.json"), AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("packages/router/package.json.1480685626"), AnchoredSystemPathBuf("pnpm-lock.yaml.2832876271")}
+2025-03-11T12:24:58.767505Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T12:25:03.963889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.bundled_jh7awch0b6i.mjs")}
+2025-03-11T12:25:03.963898Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:25:27.964435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/router.tsx")}
+2025-03-11T12:25:27.964461Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:25:37.963038Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/components.tsx")}
+2025-03-11T12:25:37.963049Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:25:46.564246Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.bundled_u6dbsd81inf.mjs")}
+2025-03-11T12:25:46.564254Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:25:46.663652Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.mjs.map"), AnchoredSystemPathBuf("packages/router/dist/index.mjs"), AnchoredSystemPathBuf("packages/router/dist/index.js"), AnchoredSystemPathBuf("packages/router/dist/index.js.map"), AnchoredSystemPathBuf("packages/router/dist")}
+2025-03-11T12:25:46.663660Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:08.964482Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/router.tsx")}
+2025-03-11T12:26:08.964501Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:21.964169Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/types.ts")}
+2025-03-11T12:26:21.964182Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:30.764537Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.js.map"), AnchoredSystemPathBuf("packages/router/dist/index.mjs.map"), AnchoredSystemPathBuf("packages/router/dist/index.js"), AnchoredSystemPathBuf("packages/router/tsup.config.bundled_k697uxyclr.mjs"), AnchoredSystemPathBuf("packages/router/dist/index.mjs")}
+2025-03-11T12:26:30.764546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:49.964148Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/src/router.tsx")}
+2025-03-11T12:26:49.964164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:59.665044Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.bundled_m4xkcovfa0l.mjs")}
+2025-03-11T12:26:59.665055Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:26:59.764767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.mjs"), AnchoredSystemPathBuf("packages/router/dist/index.mjs.map"), AnchoredSystemPathBuf("packages/router/dist/index.js.map"), AnchoredSystemPathBuf("packages/router/dist/index.js")}
+2025-03-11T12:26:59.764782Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T12:27:00.563771Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.d.ts"), AnchoredSystemPathBuf("packages/router/dist/index.d.mts")}
+2025-03-11T12:27:00.563779Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T13:55:45.924018Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie")}
+2025-03-11T13:55:45.924030Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T13:55:46.023463Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/5.cookie"), AnchoredSystemPathBuf("packages/router/.turbo/turbo-build.log")}
+2025-03-11T13:55:46.023472Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-03-11T13:55:46.623729Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/tsup.config.bundled_wbov7919wdn.mjs"), AnchoredSystemPathBuf("packages/router/dist/index.js.map"), AnchoredSystemPathBuf("packages/router/dist/index.mjs"), AnchoredSystemPathBuf("packages/router/dist/index.mjs.map"), AnchoredSystemPathBuf("packages/router/dist/index.js")}
+2025-03-11T13:55:46.623739Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T13:55:46.723903Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.mjs.map"), AnchoredSystemPathBuf("packages/router/dist/index.js"), AnchoredSystemPathBuf("packages/router/dist/index.js.map"), AnchoredSystemPathBuf("packages/router/dist/index.mjs")}
+2025-03-11T13:55:46.723912Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T13:55:47.224048Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.d.mts"), AnchoredSystemPathBuf("packages/router/dist/index.d.ts")}
+2025-03-11T13:55:47.224056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
+2025-03-11T13:55:47.523821Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/router/dist/index.d.ts"), AnchoredSystemPathBuf("packages/router/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/6.cookie"), AnchoredSystemPathBuf("packages/router/dist/index.d.mts")}
+2025-03-11T13:55:47.523830Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@react-spa-router/core"), path: AnchoredSystemPathBuf("packages/router") }}))
